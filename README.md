@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Albin D Mamachen
+## 👋 Hi, I’m Albin D Mamachen
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python especially Djnago Framework
-- I also Intrested in Android app Building using flutter
-- 💞️ I’m looking to collaborate on app development and machine learning projects 
+- 🌱 I’m currently learning full stack devlopment 
+- 💞️ I’m looking to collaborate on web/app development and machine learning projects 
 - 📫 How to reach me albin.m.dev@gmail.com 
 - my portfolio:  https://albin7299.pythonanywhere.com/
 <!---
